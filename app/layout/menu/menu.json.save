@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Home",
+        "url": "#"
+    },
+    {
+        "name": "Produtos",
+        "url": "",
+        "sub": true,
+        "submenu":[
+            {
+                "name": "SMS",
+                "url": "#"
+            },
+            {
+                "name": "Campanhas de Marketing",
+                "url": "#" 
+            },
+            {
+                "name": "Api de integração",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "name": "Mercados de uso",
+        "url": "#",
+        "sub": true,
+        "submenu":[
+            {
+                "name": "banco",
+                "url": "#"
+            },
+            {
+                "name": "Corpotativo",
+                "url": "#"
+            },
+            {
+                "name": "Educação",
+                "url": "#"
+            },
+            {
+                "name": "Lojas  / E-commerce",
+                "url": "#"
+            },
+            {
+                "name": "Mercado Imobiliário",
+                "url": "#"
+            },
+            {
+                "name": "Pequenos negocios",
+                "url": "#"
+            },
+            {
+                "name": "Saude",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "name": "Exemplos de uso",
+        "url": "#",
+        "sub": true,
+        "mega": true,
+        "submenu":[
+            {
+                "name": "Financeiro",
+                "url": "#"
+            },
+            {
+                "name": "Incentivo de vendas",
+                "url": "#"
+            },
+            {
+                "name": "Cartão",
+                "url": "#"
+            },
+            {
+                "name": "Atendimento ao cliente",
+                "url": "#"
+            },
+            {
+                "name": "E-commerce",
+                "url": "#"
+            },
+            {
+                "name": "Avisos e informações",
+                "url": "#"
+            },
+            {
+                "name": "Relacionamento",
+                "url": "#"
+            },
+            {
+                "name": "Comunicação com equipe",
+                "url": "#"
+            },
+            {
+                "name": "Monitoramento",
+                "url": "#"
+            },
+            {
+                "name": "Processos",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "name": "Contato",
+        "url": "#"
+    }
+]
